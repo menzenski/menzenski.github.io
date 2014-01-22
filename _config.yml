@@ -5,23 +5,23 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 pygments: true
 
-title: dbyll
-description: Stylish Jekyll Theme
+title: The Programmatic Slavicist
+description: The Intersection of Slavic Linguistics and Digital Humanities
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: asd123
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Matt Menzenski
+  email: menzenski@ku.edu
+  github: menzenski
+  twitter: 
+  pinterest: 
+  linkedin: 
+  bio: "I'm a graduate student interested in the application of digital humanities methods to Slavic linguistics"
+  email_md5: f81b715ebc70f940dee7790071a6a398
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: http://dbtek.github.io/dbyll
+BASE_PATH: 
 
 # All links will be namespaced by BASE_PATH if defined.
 # Links in your website should always be prefixed with {{ site.BASE_PATH }}
