@@ -22,6 +22,11 @@ analytics :
   google : 
       tracking_id : 'UA-47395716-1'
 
+comments :
+  provider : disqus
+  disqus :
+    short_name : menzenski
+
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
