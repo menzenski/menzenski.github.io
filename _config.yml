@@ -17,6 +17,11 @@ author:
   bio: "I'm a graduate student interested in the application of digital humanities methods to Slavic linguistics"
   email_md5: f81b715ebc70f940dee7790071a6a398
 
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-47395716-1'
+
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
