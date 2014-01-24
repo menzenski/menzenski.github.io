@@ -23,3 +23,5 @@ The following picture shows the fifty most frequent words (with their frequencie
 This next image shows the fifty most frequent words from the same 2013 State of the Union address, except that 174 stop words were removed prior to the creation of the tag cloud (the list of stop words used is available [here](http://www.ranks.nl/resources/stopwords.html)):
 
 ![Most common words in the 2013 State of the Union address, with stop words removed]({% asset_path stopwords_removed.png %})
+
+It should be clear from these two images that
