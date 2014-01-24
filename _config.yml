@@ -30,6 +30,7 @@ comments :
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
+asset_path: _assets/images
 
 BASE_PATH: 
 
