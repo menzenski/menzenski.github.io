@@ -4,8 +4,6 @@ comments: true
 title: Russian Stopwords
 categories: [stopwords-project]
 tags: [russian, nlp, python, 520]
-image_one: /img/stopwords_not_removed.png
-image_two: /img/stopwords_removed.png
 fullview: true
 ---
 
@@ -20,10 +18,10 @@ There are several reasons why it's useful to remove stop words from a text prior
 
 The following picture shows the fifty most frequent words (with their frequencies) from the 2013 State of the Union address (the text of which is available [here](http://www.whitehouse.gov/the-press-office/2013/02/12/remarks-president-state-union-address)). In this first picture, no stopwords have been removed from the text prior to the creation of the tag cloud:
 
-![Most common words in the 2013 State of the Union address]({{ page.image_one }})
+![Most common words in the 2013 State of the Union address]({% asset_path stopwords_not_removed.png %})
 
 This next image shows the fifty most frequent words from the same 2013 State of the Union address, except that 174 stop words were removed prior to the creation of the tag cloud (the list of stop words used is available [here](http://www.ranks.nl/resources/stopwords.html)):
 
-![Most common words in the 2013 State of the Union address, with stop words removed]({{ page.image_two }})
+![Most common words in the 2013 State of the Union address, with stop words removed]({% asset_path stopwords_removed.png %})
 
 It should be clear from these two images that
