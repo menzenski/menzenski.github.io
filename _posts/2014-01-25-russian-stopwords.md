@@ -18,8 +18,10 @@ There are several reasons why it's useful to remove stop words from a text prior
 
 The following picture shows the fifty most frequent words (with their frequencies) from the 2013 State of the Union address (the text of which is available [here](http://www.whitehouse.gov/the-press-office/2013/02/12/remarks-president-state-union-address)). In this first picture, no stopwords have been removed from the text prior to the creation of the tag cloud:
 
-![Most common words in the 2013 State of the Union address](../assets/posts/russian-stopwords/stopwords_not_removed.png)
+<img src ="/assets/posts/russian-stopwords/stopwords_not_removed.png"
+alt="Most common words in the 2013 State of the Union address" align="left" title="Without Stop Words Removed" class="img"</img>
 
 This next image shows the fifty most frequent words from the same 2013 State of the Union address, except that 174 stop words were removed prior to the creation of the tag cloud (the list of stop words used is available [here](http://www.ranks.nl/resources/stopwords.html)):
 
-![Most common words in the 2013 State of the Union address, with stop words removed](../assets/posts/russian-stopwords/stopwords_removed.png)
+<img src ="/assets/posts/russian-stopwords/stopwords_removed.png"
+alt="Most common words in the 2013 State of the Union address, with stop words removed" align="left" title="With Stop Words Removed" class="img"</img>
