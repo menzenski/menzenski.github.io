@@ -43,18 +43,25 @@ organization in a spreadsheet or database.
 1. (Perhaps) collect any example sentences given.
 
 It's easy enough to come up with the approximate number of verb
-entries:
+entries. We can define a function to pull out every dictionary entry
+containing either "V" or "Stat" (standing for "verb" and "stative
+verb", respectively) and write those entries to a separate file.
 
 {% highlight python linenos %}
 def find_all_verbs(text_file, title):
     lines = text_file.splitlines()
-    cleaner_lines = [line.replace('n~','ñ') for line in lines]
-    verb_entries = [
-        line for line in cleaner_lines if "V" in line or "Stat" in line]
+    verb_entries = [line for line in lines if "V" in line or "Stat" in line]
     file_name = title + '.txt'
     with codecs.open(file_name, "w", encoding="utf8") as stream:
         for item in verb_entries:
             stream.write("%s \n\n" % item)
 {% endhighlight %}
 
-The above code 
+For easier reading, this script inserts a blank line between entries
+when writing the results to a file, so we can arrive at a rough number
+of verb entries by simply dividing the total number of lines by
+two. The results file is 10,254 lines long, so we seem to be dealing
+with just over five thousand verb entries. To be sure, some of these entries
+cross-reference a main entry (if, for instance, the plural form of a
+verb is suppletive, it will have its own entry referring to the
+singular form), but we are still dealing with a large number of verbs.
