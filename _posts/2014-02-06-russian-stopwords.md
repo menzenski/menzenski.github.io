@@ -24,4 +24,10 @@ This next image shows the fifty most frequent words from the same 2013 State of 
 
 ![Most common words in the 2013 State of the Union address, with stop words removed](http://i.imgur.com/jk9a6Hi.png)
 
-It should be clear from these two images that
+It should be clear from these two images that removing stopwords prior to conducting a word frequency count allows for a much better indication of a text's content.
+
+#### Stopword removal in Russian texts
+
+Removing stopwords from an English text is straightforward. English is the language of the internet, and as such enjoys a wide array of resources such as text analysis tools. English also benefits from its relative morphological simplicity: almost every word in a list of English stopwords appears in a single form. For instance, *the* is just *the*; it doesn't change to a different form if it's used with a plural noun, or a noun used as a direct object.
+
+In Russian, however, the situation is very different.
