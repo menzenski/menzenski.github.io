@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Automating the Creation of a Tohono O'odham Verb Database
+title: Automating the Creation of an O'odham Verb Database
 categories: [oodham-aspect]
 tags: [nlp, python, oodham, aspect]
 fullview: true
