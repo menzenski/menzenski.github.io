@@ -50,7 +50,8 @@ verb", respectively) and write those entries to a separate file.
 {% highlight python linenos %}
 def find_all_verbs(text_file, title):
     lines = text_file.splitlines()
-    verb_entries = [line for line in lines if "V" in line or "Stat" in line]
+    verb_entries = [
+	    line for line in lines if "V" in line or "Stat" in line]
     file_name = title + '.txt'
     with codecs.open(file_name, "w", encoding="utf8") as stream:
         for item in verb_entries:
