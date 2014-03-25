@@ -38,9 +38,9 @@ installed:
 всегда конечно всю между
 {% endhighlight %}
 
-The second stop word list can be found here:
-<https://code.google.com/p/stop-words/> (two lists of Russian stop
-words are provided, but they're actually identical.) This list (we'll
+The second stop word list can be found
+[here](https://code.google.com/p/stop-words/) (two lists of Russian
+stop words are provided, but they're actually identical.) This list (we'll
 call it the Google stop words list) includes the following words: 
 
 > а, е, и, ж, м, о, на, не, ни, об, но, он, мне, мои, мож, она, они,
