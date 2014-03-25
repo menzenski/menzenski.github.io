@@ -41,3 +41,20 @@ organization in a spreadsheet or database.
    baañiop-k).
 1. Identify the verb's definition.
 1. (Perhaps) collect any example sentences given.
+
+It's easy enough to come up with the approximate number of verb
+entries:
+
+{% highlight python linenos %}
+def find_all_verbs(text_file, title):
+    lines = text_file.splitlines()
+    cleaner_lines = [line.replace('n~','ñ') for line in lines]
+    verb_entries = [
+        line for line in cleaner_lines if "V" in line or "Stat" in line]
+    file_name = title + '.txt'
+    with codecs.open(file_name, "w", encoding="utf8") as stream:
+        for item in verb_entries:
+            stream.write("%s \n\n" % item)
+{% endhighlight %}
+
+The above code 
