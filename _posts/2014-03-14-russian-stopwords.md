@@ -30,4 +30,4 @@ It should be clear from these two images that removing stopwords prior to conduc
 
 Removing stopwords from an English text is straightforward. English is the language of the internet, and as such enjoys a wide array of resources such as text analysis tools. English also benefits from its relative morphological simplicity: almost every word in a list of English stopwords appears in a single form. For instance, *the* is just *the*; it doesn't change to a different form if it's used with a plural noun, or a noun used as a direct object.
 
-In Russian, however, the situation is very different.
+In Russian, however, the situation is very different. Unlike English words, Russian words frequently occur in many different forms depending on their usage, and this means that Russian text-analysis tools need to be more sophisticated. My next post will look more closely at some of the difficulties that arise when trying to automate the analysis of Russian text.
