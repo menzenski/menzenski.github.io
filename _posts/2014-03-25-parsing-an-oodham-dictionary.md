@@ -20,7 +20,7 @@ Here's a sample entry from Mathiot's dictionary, just so you can see
 what I'm starting with:
 
 > *baañiop* Vintr pls (for sgs see *baañimeḑ*)
-> [Neutr: def baañio; hort and indef baañiop. Correl: baañiop-k; immed: baañiop-ka-'i]:
+> \[Neutr: def baañio; hort and indef baañiop. Correl: baañiop-k; immed: baañiop-ka-'i\]:
 > to crawl on all fours (same as *baabañimeḑ*) ex: Mt o 'i baañio miisa
 > veco! (You pl will) crawl under the table! -- M(<'am) g o 'i baañiop
 > kolai veco! (You pl) crawl under the fence!-- 'Idam 'o cum hekid abx
