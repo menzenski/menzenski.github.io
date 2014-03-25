@@ -14,7 +14,7 @@ One issue that's come up for me in trying to analyze Russian text is the lack of
 There are several reasons why it's useful to remove stop words from a text prior to analyzing it. Perhaps you want to look at the words which occur most frequently. Stopwords typically are the most frequent in any text, and so removing them 
 
 
-#### The difference that removal of stop words can make
+#### The difference the removal of stop words can make
 
 The following picture shows the fifty most frequent words (with their frequencies) from the 2013 State of the Union address (the text of which is available [here](http://www.whitehouse.gov/the-press-office/2013/02/12/remarks-president-state-union-address)). In this first picture, no stopwords have been removed from the text prior to the creation of the tag cloud:
 
