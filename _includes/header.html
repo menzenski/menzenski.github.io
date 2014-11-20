@@ -1,35 +1,42 @@
-<! -- header.html -->
-<meta charset="utf-8">
-<title>{{ page.title }}</title>
-{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-<meta name="author" content="{{ site.author.name }}">
+<!DOCTYPE html>
+<html lang="en">
 
-<!-- Enable responsive viewport -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ site.name }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+    <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/theme.css" rel="stylesheet">
+</head>
 
-<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-<!--[if lt IE 9]>
- <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+<body>
 
-<!-- Le styles -->
-<link href="{{ site.BASE_PATH }}/assets/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="{{ site.BASE_PATH }}/assets/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link href="{{ site.BASE_PATH }}/assets/resources/syntax/syntax.css" rel="stylesheet">
-<link href="{{ site.BASE_PATH }}/assets/css/style.css"
-rel="stylesheet">
-
-<!-- Solarized theme for highlighting code -->
-<link rel="stylesheet" href="/assets/css/solarized.css">
-
-<!-- Le fav and touch icons -->
-<!-- Update these with your own images
-<link rel="shortcut icon" href="images/favicon.ico">
-<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
--->
-
- <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.BASE_PATH }}/feed.xml">
-
-<! -- header.html end -->
+<div class="container-fluid">
+    <div class="row-fluid">
+        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.name }}</a>
+              </div>
+              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="{{ site.baseurl }}/">Home</a></li>
+                    <li class="active visible-xs-block"><a href="{{ site.baseurl }}/links.html">Links</a></li>
+                    <li class="active"><a href="{{ site.baseurl }}/archive.html">Archive</a></li>
+                    <li class="active"><a href="{{ site.baseurl }}/about.html">About</a></li>
+                    <li class="active"><a href="{{ site.baseurl }}/feed.xml">RSS</a></li>
+                    {% if site.github != '' %}
+                      <li class="active"><a href="https://github.com/{{ site.github }}">Github</a></li>
+                    {% endif %}
+                </ul>
+              </div>
+        </div>
+    </div>
+</div>

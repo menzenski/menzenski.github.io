@@ -1,51 +1,35 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Jekyll configuration
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
-pygments: true
+name: Matt Menzenski
+description: Slavic linguistics, digital humanities, open access
 
-title: The Programmatic Slavicist
-description: The Intersection of Slavic Linguistics and Digital Humanities
-author:
-  name: Matt Menzenski
-  email: menzenski@ku.edu
-  github: menzenski
-  twitter: 
-  pinterest: 
-  linkedin: 
-  bio: "I'm a graduate student interested in the application of digital humanities methods to Slavic linguistics"
-  email_md5: f81b715ebc70f940dee7790071a6a398
+# url is currently only used only for the RSS feed in feed.xml
+url: http://menzenski.github.io
 
-analytics :
-  provider : google 
-  google : 
-      tracking_id : 'UA-47395716-1'
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''
+baseurl: ''
 
-comments :
-  provider : disqus
-  disqus :
-    short_name : menzenski
+# This can be '' to hide the Github nav button
+github: ''
 
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
-asset_path: _assets/images
+# Set this to your UA-# value, or '' to disable the block completely
+gaaccount: ''
 
-BASE_PATH: 
+# Set this to your disqus shortname to enable comments. Note that the 'comments'
+# setting below must also be true. Individual posts can override 'comments' to
+# disable on a post-by-post basis
+disqus: 'menzenski'
+comments: true
 
-# All links will be namespaced by BASE_PATH if defined.
-# Links in your website should always be prefixed with {{ site.BASE_PATH }}
-# Do not put a "/" at the end of the url.
-#
-# CNAME (http://yourcustomdomain.com)
-#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
-#   (urls will be prefixed with "/" and work relatively)
-#
-# GitHub Pages (http://username.github.io)
-#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
-#   (urls will be prefixed with "/" and work relatively)
-#
-# GitHub Project Pages (http://username.github.io/project-name)
-#  A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-#  REQUIRED! Set BASE_PATH to "http://username.github.io/project-name"
+permalink: /:year/:month/:title
+paginate: 3
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+exclude: ['README.md', 'LICENSE']
