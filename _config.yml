@@ -1,7 +1,9 @@
 # Jekyll configuration
 
 name: Matt Menzenski
-description: Slavic linguistics, digital humanities, open access
+description: Slavic linguistics, digital humanities, open access. 
+
+Unless otherwise indicated, all content on this page is made available under a [CC-BY-4.0 license](http://creativecommons.org/licenses/by/4.0/).
 
 # url is currently only used only for the RSS feed in feed.xml
 url: http://menzenski.github.io
