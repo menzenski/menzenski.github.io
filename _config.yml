@@ -10,3 +10,6 @@ name: Matt Menzenski
 url: http://menzenski.github.io
 description: A fantastic blog that is fantastic.
 twitter: menzenski
+
+disqus: 'mattmenzenski'
+comments: true
