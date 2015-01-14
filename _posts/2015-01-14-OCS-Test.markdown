@@ -1,10 +1,17 @@
 ---
 layout: post
-title: OCS Test
+title: Welcome
 category: posts
 ---
 
-If this works like I think it should, <span class="ocs">събирати</span> should
-be the Cyrillic for *sъbirati*
+Welcome to my blog! I've decided that I need to be writing a lot more,
+and blogging seems like a great way to do that. One of my main goals
+in writing this blog is to be more open about my research. There are
+two projects I'm working at the moment which are independent of my
+present coursework (although each began as a term paper), and each is
+large enough in scope that the endpoint isn't anywhere in sight yet. I
+hope that blogging will both allow me to create a meaningful record of the
+research *process* as well as disseminate my research to a broader
+audience than I might otherwise be able to reach.
 
 
