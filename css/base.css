@@ -205,3 +205,8 @@ a {
     font-weight: bold; }
   .content .talk-design .color .white {
     color: #fff; }
+
+span.ocs {
+  font-family: BukyVede;
+  font-size: 110%;
+}
