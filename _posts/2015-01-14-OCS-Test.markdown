@@ -1,0 +1,10 @@
+---
+layout: post
+title: OCS Test
+category: posts
+---
+
+If this works like I think it should, <span class="ocs">събирати</span> should
+be the Cyrillic for *sъbirati*
+
+
