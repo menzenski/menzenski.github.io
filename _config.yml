@@ -25,6 +25,8 @@ tools:
 links:
   - title: About
     url: /about
+  - title: CV
+    url: /cv
   - title: Github
     url: https://github.com/menzenski/
     external: true
