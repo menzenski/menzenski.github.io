@@ -2,7 +2,7 @@
 
 This repository hosts my personal GitHub Pages site.
 
-On this page I'm using the [Balzac][left] theme by
+On this page I'm using the [Balzac][Balzac] theme by
 [Cole Townsend][Townsend] ([@twnsndco][TownsendTwitter]), who has shared it under the
 [MIT License][MIT].
 
