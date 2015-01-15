@@ -1,26 +1,31 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+title: About
+description: I'm a second-year graduate student in Slavic Languages and
+Literatures at the University of Kansas interested in the functions
+that verbal aspect serves, in both the Slavic family of languages and
+more generally in the world's languages.
+tags: about
 image:
   feature: soft-trees.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+My research interests include verbal aspect in Russian (and in Slavic more generally), verb
+classification, linguistic typology, North American indigenous
+languages, digital humanities, literary linguistics, and East European
+science fiction. These interests are fairly broad, and might seem
+disconnected from one another, but I like to think that several of
+them will come together in my dissertation in the next few years. Any
+that can't be subsumed under my dissertation will hopefully make me a
+more well-rounded candidate when I go on the job market after
+defending.
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+Research and coursework keeps me extremely busy and I don't have any
+free time, so of course I serve on several committees. I'm currently serving as a graduate student member on
+both the Open Access Advisory Board as well as the Institute for
+Digital Research in the Humanities Advisory Board here at the University of Kansas.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
-
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
-
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+When I do find that rare free time, I enjoy playing bluegrass
+and acoustic music (on the guitar, banjo, and mandolin) and riding
+my bicycle.
