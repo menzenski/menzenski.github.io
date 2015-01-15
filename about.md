@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About
+title: About Me
 description: I'm a second-year graduate student in Slavic Languages and
 Literatures at the University of Kansas interested in the functions
 that verbal aspect serves, in both the Slavic family of languages and
