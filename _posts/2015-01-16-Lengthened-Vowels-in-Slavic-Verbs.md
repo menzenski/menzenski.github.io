@@ -8,4 +8,4 @@ image:
         feature: soft-trees.jpg
 ---
 
-Old Church Slavic <span class="ocs">събирати</span> *sŭbirati* 'gather' is a member of a very interesting class of verbs.
+Old Church Slavic <span class="ocs">събирати</span> *sŭbirati* 'gather' is a member of a very interesting class of verbs. 
