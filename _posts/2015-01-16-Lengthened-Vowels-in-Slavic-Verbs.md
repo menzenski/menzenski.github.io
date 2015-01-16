@@ -1,9 +1,11 @@
 ---
 layout: post-light-feature
 title: Iteratives and Imperfectives, Oh My
-description: "The second vowel in the Russian verb *sobirat'* 'to gather' is much more interesting than you'd think."
+description: "Alternate title: Why all those -i- vowels in Slavic verbs are really, really interesting."
 categories: [articles, Balto-Slavic Iteratives, Slavic, aspect] 
 date: 2015-01-16
 image: 
         feature: soft-trees.jpg
 ---
+
+Old Church Slavic <span class="ocs">събирати</span> *sŭbirati* 'gather' is a member of a very interesting class of verbs.
