@@ -9,3 +9,5 @@ image:
 ---
 
 Old Church Slavic <span class="ocs">събирати</span> <span class="russ">s''birati</span> 'gather' is a member of a very interesting class of verbs. 
+
+The OCS verb <span class="ocs">умрѣти</span> <span class="russ">umrěti</span> 'die' represents a different sort of pattern.
