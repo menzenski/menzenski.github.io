@@ -1,3 +1,10 @@
+@font-face {
+	font-family: 'OldChurchSlavic';
+	src:url('fonts/BukyVede-Regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
+
 span.ocs {
   font-family: BukyVede;
   font-size: 110%;
