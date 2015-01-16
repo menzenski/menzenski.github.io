@@ -12,11 +12,11 @@
     font-style: normal;
 }
 
-.ocs {
+span.ocs {
   font-family: bukyvederegular;
   font-size: 110%;
 }
 
-.russ {
+span.russ {
   font-style: italic;
 }
