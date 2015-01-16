@@ -12,11 +12,11 @@
     font-style: normal;
 }
 
-:lang(ocs) {
+.ocs {
   font-family: bukyvederegular;
   font-size: 110%;
 }
 
-:lang(russ) {
+.russ {
   font-style: italic;
 }
