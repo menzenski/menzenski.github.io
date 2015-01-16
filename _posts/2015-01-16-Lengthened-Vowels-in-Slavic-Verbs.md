@@ -8,4 +8,6 @@ image:
         feature: soft-trees.jpg
 ---
 
+This is a test of a word in Old Church Slavic: <span lang=ocs>събираѭ</span> 'I gather'.
 
+This is a test of a word in Russian: <span lang="russ">собираю</span> 'I gather'.
