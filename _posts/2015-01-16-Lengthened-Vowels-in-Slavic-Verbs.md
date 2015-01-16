@@ -1,0 +1,9 @@
+---
+layout: post-light-feature
+title: Iteratives and Imperfectives, Oh My
+description: "The second vowel in the Russian verb *sobirat'* 'to gather' is much more interesting than you'd think."
+categories: [articles, Balto-Slavic Iteratives, Slavic, aspect] 
+date: 2015-01-16
+image: 
+        feature: soft-trees.jpg
+---
