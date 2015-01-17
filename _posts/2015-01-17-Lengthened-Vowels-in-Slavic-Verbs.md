@@ -12,7 +12,9 @@ The particular semantics of the aspects vary from language to language, but gene
 
 In Russian, verbs are frequently grouped into *aspectual pairs* containing an imperfective and its corresponding perfective, e.g., <span class="russ">читать/прочитать</span> <span class="trans">čitat'/pročitat'</span> 'read (ipf and pf respectively)'. There are several strategies for forming the members of an aspectual pair. There are some eighteen verbal prefixes in Russian, each of which results in a perfective verb. 
 
-Prefixation leads to multiple sorts of perfective verbs in Russian: some prefixed perfectives (typically just one for a given simplex imperfective) are considered *natural perfectives*&mdash;in these perfectives, like <span class="trans">čitat'/pročitat'</span> above, the prefix is considered to be 'semantically empty' aside from the perfective meaning.
+Prefixation leads to multiple sorts of perfective verbs in Russian: some prefixed perfectives (typically just one for a given simplex imperfective) are considered *natural perfectives*&mdash;in these perfectives, like <span class="trans">čitat'/pročitat'</span> above, the prefix is considered to be 'semantically empty' aside from the perfective meaning. Others are *procedural perfectives* (also called Complex Act Perfectives), e.g., <span class="russ">почитать</span> <span class="trans">počitat'</span> 'to read for a while (pf)'&mdash;these prefixes set some sort of boundary on an action, and frequently have connotations like 'to do something for a while', 'to start to do something', 'to stop doing something', or 'to do something for a certain period of time'.
+
+A third group of prefixed perfective verbs is *lexical perfectives* (also called Specialized Perfectives).
 
 This is a test of a word in Old Church Slavic: <span class="ocs">събираѭ</span> 'I gather'.
 
