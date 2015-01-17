@@ -10,11 +10,17 @@ image:
 
 The particular semantics of the aspects vary from language to language, but generally, use of the perfective (pf) is associated with completed actions, actions viewed in their totality, and actions occurring at a definite point in time, while use of the imperfective (ipf) is associated with actions in process, actions considered with reference to their internal temporal makeup, and repeated actions.
 
+### Types of Perfective Verbs in Russian
+
 In Russian, verbs are frequently grouped into *aspectual pairs* containing an imperfective and its corresponding perfective, e.g., <span class="russ">читать/прочитать</span> <span class="trans">čitat'/pročitat'</span> 'read (ipf and pf respectively)'. There are several strategies for forming the members of an aspectual pair. There are some eighteen verbal prefixes in Russian, each of which results in a perfective verb. 
 
 Prefixation leads to multiple sorts of perfective verbs in Russian: some prefixed perfectives (typically just one for a given simplex imperfective) are considered *natural perfectives*&mdash;in these perfectives, like <span class="trans">čitat'/pročitat'</span> above, the prefix is considered to be 'semantically empty' aside from the perfective meaning. Others are *procedural perfectives* (also called Complex Act Perfectives), e.g., <span class="russ">почитать</span> <span class="trans">počitat'</span> 'to read for a while (pf)'&mdash;these prefixes set some sort of boundary on an action, and frequently have connotations like 'to do something for a while', 'to start to do something', 'to stop doing something', or 'to do something for a certain period of time'.
 
-A third group of prefixed perfective verbs is *lexical perfectives* (also called Specialized Perfectives).
+A third group of prefixed perfective verbs are *lexical perfectives* (also called Specialized Perfectives). While in procedural perfectives the prefix might be said to add a small amount of new semantic content aside from perfective meaning, in lexical perfectives the prefix adds enough additional semantic content that the resulting perfective verb is considered lexically distinct from the simplex (i.e., not prefixed and not suffixed) imperfective. As a result, in an aspectual pair the imperfective partner of a lexical perfective is not the simplex imperfective, but a new, *derived imperfective* formed from the prefixed verb by the addition of an imperfectivizing suffix. The verb <span class="russ">перечитать</span> <span class="trans">perečitat'</span> 're-read (pf)' is a lexical perfective formed from <span class="russ">читать</span> <span class="trans">čitat'</span> 'read', but its imperfective partner is  <span class="russ">перечитывать</span> <span class="trans">perečityvat'</span> 're-read (ipf)', formed with the imperfectivizing suffix <span class="russ">-ыва-</span> <span class"trans">-yva-</span>.
+
+## Imperfectivizing Morphology
+
+The suffix <span class="russ">-ыва-</span> <span class"trans">-yva-</span> is the most common imperfectivizing suffix in modern Russian, and the only one which is productive. A look at Russian aspectual morphology, though, reveals that there are a number of imperfectivizing strategies which 
 
 This is a test of a word in Old Church Slavic: <span class="ocs">събираѭ</span> 'I gather'.
 
