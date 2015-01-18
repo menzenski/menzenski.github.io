@@ -23,6 +23,8 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Blog
+    url: /blog
   - title: About
     url: /about
   - title: CV
