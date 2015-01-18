@@ -30,14 +30,16 @@ Two of these groups of verbs feature some kind of vowel alternation between the 
 
 | **Perfective**  | **Imperfective**   | **Translation**   |
 |-------------|----------------|---------------|
-| <span class="russ">собрать, соберу</span> (<span class="trans">sobrat', soberu</span>) | <span class="russ">собирать, собираю</span> (<span class="trans">sobirat', sobiraju</span>) | 'gather' |
-| <span class="russ">назвать, назову</span> (<span class="trans">nazvat', nazovu</span>) | <span class="russ">называть, называюу</span> (<span class="trans">nazyvat', nazyvaju</span> | 'name' |
-| <span class="russ">умереть, умру</span> (<span class="trans">umeret', umru</span>) | <span class="russ">умирать, умираю</span> (<span class="trans">umirat', umiraju</span>) | 'die' |
-| <span class="russ">зажечь, зажгу</span> (<span class="trans">zažeč', zažgu</span>) | <span class="russ">зажигать, зажигаю</span> (<span class="trans">zažigat', zažigaju</span>) | 'ignite' |
-| <span class="russ">ождать, ожду</span> (<span class="trans">oždat', oždu</span>) | <span class="russ">ожидать, ожидаю</span> (<span class="trans">ožidat', ožidaju</span>) | 'expect' |
+| <span class="russ">собрать, соберу</span> (<span class="trans">sobrat', soberu</span>)    | <span class="russ">собирать, собираю</span> (<span class="trans">sobirat', sobiraju</span>)    | 'gather' |
+| <span class="russ">назвать, назову</span> (<span class="trans">nazvat', nazovu</span>)    | <span class="russ">называть, называюу</span> (<span class="trans">nazyvat', nazyvaju</span>    | 'name' |
+| <span class="russ">умереть, умру</span> (<span class="trans">umeret', umru</span>)    | <span class="russ">умирать, умираю</span> (<span class="trans">umirat', umiraju</span>)    | 'die' |
+| <span class="russ">зажечь, зажгу</span> (<span class="trans">zažeč', zažgu</span>)    | <span class="russ">зажигать, зажигаю</span> (<span class="trans">zažigat', zažigaju</span>)    | 'ignite' |
+| <span class="russ">ождать, ожду</span> (<span class="trans">oždat', oždu</span>)    | <span class="russ">ожидать, ожидаю</span> (<span class="trans">ožidat', ožidaju</span>)    | 'expect' |
 
-Those three groups suddenly have a lot more in common, don't they? Regardless of the particular sort of vowel alternation (if there is one) in the simplex or prefixed perfective forms, all three groups of verbs form their derived imperfectives in the same way.
+Those three groups suddenly have a lot more in common, don't they? Regardless of the particular sort of vowel alternation (if there is one) in the simplex or prefixed perfective forms, all three groups of verbs form their derived imperfectives in the same way. Regardless of the vocalism in the simplex/perfective forms, each imperfective is characterized by two elements:
+
+* The original root vowel is lost in favor of a new vowel, typically <span class="russ">-и-</span> (<span class="trans">-i-</span>) but sometimes <span class="russ">-ы-</span> (<span class="trans">-y-</span>). This imperfective root vowel does not alternate&mdash;the vowel does not differ between the ipf infinitive and the ipf conjugated nonpast forms.
+
+* A suffix <span class="russ">-а(й)-</span> (<span class="trans">-a(j)-</span>). Note that this is **different** from the <span class="russ">-а-</span> (<span class="trans">-a-</span>) found in some of the simplex infinitives, e.g., <span class="russ">брать</span> (<span class="trans">brat'</span>) 'take'.
 
 [lastp]: {{ site.canonical }}/blog/balto-slavic%20iteratives/slavic/aspect/Lengthened-Vowels-in-Slavic-Verbs/
-
-<span class="russ"></span> (<span class="trans"></span>)
