@@ -18,9 +18,15 @@ Prefixation leads to multiple sorts of perfective verbs in Russian: some prefixe
 
 A third group of prefixed perfective verbs are *lexical perfectives* (also called Specialized Perfectives). While in procedural perfectives the prefix might be said to add a small amount of new semantic content aside from perfective meaning, in lexical perfectives the prefix adds enough additional semantic content that the resulting perfective verb is considered lexically distinct from the simplex (i.e., not prefixed and not suffixed) imperfective. As a result, in an aspectual pair the imperfective partner of a lexical perfective is not the simplex imperfective, but a new, *derived imperfective* formed from the prefixed verb by the addition of an imperfectivizing suffix. The verb <span class="russ">перечитать</span> <span class="trans">perečitat'</span> 're-read (pf)' is a lexical perfective formed from <span class="russ">читать</span> <span class="trans">čitat'</span> 'read', but its imperfective partner is  <span class="russ">перечитывать</span> <span class="trans">perečityvat'</span> 're-read (ipf)', formed with the imperfectivizing suffix <span class="russ">-ыва-</span> <span class"trans">-yva-</span>.
 
-## Imperfectivizing Morphology
+## Imperfectivizing Morphology and Lengthened Root Vowels
 
-The suffix <span class="russ">-ыва-</span> <span class"trans">-yva-</span> is the most common imperfectivizing suffix in modern Russian, and the only one which is productive. A look at Russian aspectual morphology, though, reveals that there are a number of imperfectivizing strategies which 
+The suffix <span class="russ">-ыва-</span> <span class"trans">-yva-</span> is the most common imperfectivizing suffix in modern Russian, and the only one which is productive. A look at Russian aspectual morphology, though, reveals that there are a number of imperfectivizing strategies which are fossilized in the modern language&mdash;that is, they're used on some verbs which have retained those markers, but they aren't being applied to any newly introduced verbs. One of these imperfectivizing strategies is the focus of this project (and will be one of the main topics for this blog): the <span class="russ">-бирать</span> <span class="trans">-birat'</span> type.
+
+There is a group of verbs in Russian (and in the other Slavic languages; they'll be compared in a later post) characterized by a *root vowel alternation* between the infinitive and the present-tense forms. In modern Russian, this alternation comes in two basic flavors:
+
+* A vowel in the present tense alternates with the lack of a vowel in the infinitive, e.g., the <span class="trans">-ber-</span> of <span class="russ">беру</span> <span class="trans">beru</span> 'I take' (present tense) vs. the <span class="trans">-br-</span> in <span class="russ">брать</span> <span class="trans">brat'</span> 'to take' (infinitive). This present-tense vowel is always <span class="trans">-e-</span> with one exception, the <span class="trans">-o-</span> of <span class="russ">зову</span> <span class="trans">zovu</span> 'I call' (but there's good reason to believe that that <span class="trans">-o-</span> derives from a historical <span class="trans">\*-e-</span)
+
+* There is no vowel in the present tense, 
 
 This is a test of a word in Old Church Slavic: <span class="ocs">събираѭ</span> 'I gather'.
 
