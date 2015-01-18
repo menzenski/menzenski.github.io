@@ -4,6 +4,7 @@ title: Russian Perfectives and Imperfectives, Oh My
 description: "One of the characteristics shared by all Slavic languages is the distinction made in the verb between perfective and imperfective aspects."
 categories: [blog, Balto-Slavic Iteratives, Slavic, aspect] 
 date: 2015-01-17
+comments: true
 image: 
         feature: soft-trees.jpg
 ---

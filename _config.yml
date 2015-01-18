@@ -1,7 +1,7 @@
 title:            Matt Menzenski
 tagline:          A website and blog
 description:      Slavic linguistics, open access, digital humanities
-canonical:        http://jekyll.gtat.me
+canonical:        http://www.menzenski.com
 
 # Owner/author information
 owner:
@@ -13,7 +13,7 @@ owner:
   github:         menzenski
   instagram:      therealmenzenski
   disqus:         mattmenzenski
-  location:       "Buffalo, NY"
+  location:       "Lawrence, KS"
   # Plug in your disqus shortname!
 
 tools:
