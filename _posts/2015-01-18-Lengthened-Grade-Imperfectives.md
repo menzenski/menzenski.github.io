@@ -38,8 +38,14 @@ Two of these groups of verbs feature some kind of vowel alternation between the 
 
 Those three groups suddenly have a lot more in common, don't they? Regardless of the particular sort of vowel alternation (if there is one) in the simplex or prefixed perfective forms, all three groups of verbs form their derived imperfectives in the same way. Regardless of the vocalism in the simplex/perfective forms, each imperfective is characterized by two elements:
 
-* The original root vowel is lost in favor of a new vowel, typically <span class="russ">-и-</span> (<span class="trans">-i-</span>) but sometimes <span class="russ">-ы-</span> (<span class="trans">-y-</span>). This imperfective root vowel does not alternate&mdash;the vowel does not differ between the ipf infinitive and the ipf conjugated nonpast forms.
+* The original root vowel is lost in favor of a new vowel, typically <span class="russ">-и-</span> (<span class="trans">-i-</span>) but sometimes <span class="russ">-ы-</span> (<span class="trans">-y-</span>). This imperfective root vowel does not alternate&mdash;the vowel does not differ between the ipf infinitive and the ipf conjugated nonpast forms, even if it does alternate in the simplex/perfective forms.
 
 * A suffix <span class="russ">-а(й)-</span> (<span class="trans">-a(j)-</span>). Note that this is **different** from the <span class="russ">-а-</span> (<span class="trans">-a-</span>) found in some of the simplex infinitives, e.g., <span class="russ">брать</span> (<span class="trans">brat'</span>) 'take'.
+
+### The Lengthened Zero-Grade
+
+In future posts, I'll be exploring this imperfectivizing strategy in more detail. For now, a brief introduction (and a name) will have to suffice.
+
+One of the major phonological processes (likely **the** major phonological process) in the history of the Slavic languages was the "fall of the yers", the short, weak high vowels /ĭ/ and /ŭ/ (written with the Cyrillic letters <span class="russ">ь</span> and <span class="russ">ъ</span>, respectively, although those letters have come to represent something different in the modern Slavic languages). In the three groups of verbs considered above, there is often an alternation between a form with a vowel and a form without, e.g., <span class="russ">брать, беру</span> (<span class="trans">brat', beru</span>) 'take'. Historically, though, that form lacking a vowel today would have contained a yer: cf. Old Church Slavic <span class="ocs">бьрати, берѫ</span> (<span class="trans">bĭrati, berǫ</span>).
 
 [lastp]: {{ site.canonical }}/blog/balto-slavic%20iteratives/slavic/aspect/Lengthened-Vowels-in-Slavic-Verbs/
