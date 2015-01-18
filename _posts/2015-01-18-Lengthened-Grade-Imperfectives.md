@@ -24,7 +24,7 @@ Why are these verbs grouped together? Recall from the previous post that adding 
 
 * Imperfective <span class="russ">мереть, мру</span> (<span class="trans">meret', mru</span>) 'die' with the prefix <span class="russ">у-</span> (<span class="trans">u-</span>) results in perfective <span class="russ">умереть, умру</span> (<span class="trans">umeret', umru</span>) 'die'. Likewise, imperfective <span class="russ">жечь, жгу</span> (<span class="trans">žeč', žgu</span>) with the prefix <span class="russ">за-</span> (<span class="trans">za-</span>) results in perfective <span class="russ">зажечь, зажгу</span> (<span class="trans">zažeč', zažgu</span>) 'ignite, set alight'
 
-* Imperfective <span class="russ">ждать, жду</span> (<span class="trans">ždu</span>) 'wait' with the prefix <span class="russ">под(о)-</span> (<span class="trans">о-</span>) results in perfective <span class="russ">ождать, ожду</span> (<span class="trans">oždat', oždu</span>) 'expect, anticipate'
+* Imperfective <span class="russ">ждать, жду</span> (<span class="trans">ždu</span>) 'wait' with the prefix <span class="russ">о-</span> (<span class="trans">о-</span>) results in perfective <span class="russ">ождать, ожду</span> (<span class="trans">oždat', oždu</span>) 'expect, anticipate'
 
 Two of these groups of verbs feature some kind of vowel alternation between the infinitive and the conjugated nonpast forms, while one does not, but all three participate in a vowel alternation in their *derived imperfective formation*. Let's compare the prefixed perfective verbs from the list above with their derived imperfective correlates:
 
