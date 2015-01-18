@@ -28,7 +28,7 @@ Why are these verbs grouped together? Recall from the previous post that adding 
 
 Two of these groups of verbs feature some kind of vowel alternation between the infinitive and the conjugated nonpast forms, while one does not, but all three participate in a vowel alternation in their *derived imperfective formation*. Let's compare the prefixed perfective verbs from the list above with their derived imperfective correlates:
 
-| Perfective  | Imperfective   | Translation   |
+| **Perfective**  | **Imperfective**   | **Translation**   |
 |-------------|----------------|---------------|
 | <span class="russ">собрать, соберу</span> (<span class="trans">sobrat', soberu</span>) | <span class="russ">собирать, собираю</span> (<span class="trans">sobirat', sobiraju</span>) | 'gather' |
 | <span class="russ">назвать, назову</span> (<span class="trans">nazvat', nazovu</span>) | <span class="russ">называть, называюу</span> (<span class="trans">nazyvat', nazyvaju</span> | 'name' |
