@@ -13,7 +13,7 @@ image:
 In my [last post][lastp], I described three groups of Russian verbs
 characterized by a root vowel alternation (unless indicated otherwise,
 when two forms occur separated by a comma, the first is the *infinitive* and the second is the
-*first-person singular (nonpast)*):
+*first-person singular nonpast*):
 
 * The <span class="russ">брать, беру</span> (<span
   class="trans">brat', beru</span>) type
@@ -53,7 +53,28 @@ verb:
 Two of these groups of verbs feature some kind of vowel alternation
 between the infinitive and the conjugated nonpast forms, while one
 does not, but all three participate in a vowel alternation in their
-*derived imperfective formation*. 
+*derived imperfective formation*. Let's compare the prefixed
+perfective verbs from the list above with their derived imperfective
+correlates:
+
+* Perfective <span class="russ">собрать, соберу</span> (<span
+  class="trans">sobrat', soberu</span>) 'gather' ~ imperfective <span class="russ">собирать, собираю</span> (<span
+  class="trans">sobirat', sobiraju</span>)
+
+* Perfective <span class="russ">умереть, умру</span> (<span
+  class="trans">umeret', umru</span>) 'die' ~ imperfective <span class="russ">умирать, умираю</span> (<span
+  class="trans">umirat', umiraju</span>); perfective <span class="russ">зажечь, зажгу</span> (<span
+  class="trans">zažeč', zažgu</span>) 'ignite, set alight' ~
+  imperfective <span class="russ">зажигать, зажигаю</span> (<span
+  class="trans">zažigat', zažigaju</span>)
+
+* Perfective <span class="russ">ождать, ожду</span> (<span
+  class="trans">oždat', oždu</span>) 'expect, anticipate' ~
+  imperfective <span class="russ">ожидать, ожидаю</span> (<span
+  class="trans">ožidat', ožidaju</span>)
+
+Those three groups suddenly have a lot more in common, don't they?
+
 
 [lastp]: {{ site.canonical }}/blog/balto-slavic%20iteratives/slavic/aspect/Lengthened-Vowels-in-Slavic-Verbs/
 
