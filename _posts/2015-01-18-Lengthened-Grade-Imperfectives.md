@@ -1,7 +1,8 @@
 ---
 layout: post-light-feature
 title: Lengthened Vowels in Russian Derived Imperfectives
-description: ""
+description: "There are really two sorts of vowel alternations taking
+place in these three groups of Russian verbs."
 categories: [blog, Balto-Slavic Iteratives, Slavic, aspect] 
 date: 2015-01-18
 comments: true
