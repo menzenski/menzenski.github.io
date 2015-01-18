@@ -31,10 +31,10 @@ Two of these groups of verbs feature some kind of vowel alternation between the 
 | Perfective  | Imperfective   | Translation   |
 |-------------|----------------|---------------|
 | <span class="russ">собрать, соберу</span> (<span class="trans">sobrat', soberu</span>) | <span class="russ">собирать, собираю</span> (<span class="trans">sobirat', sobiraju</span>) | 'gather' |
-| <span class="russ">назвать, назову</span> (<span class="trans">nazvat', nazovu</span>) | <span class="russ">называть, называюу</span> (<span class="trans">nazyvat', nazyvaju</span> | 'call, name' |
+| <span class="russ">назвать, назову</span> (<span class="trans">nazvat', nazovu</span>) | <span class="russ">называть, называюу</span> (<span class="trans">nazyvat', nazyvaju</span> | 'name' |
 | <span class="russ">умереть, умру</span> (<span class="trans">umeret', umru</span>) | <span class="russ">умирать, умираю</span> (<span class="trans">umirat', umiraju</span>) | 'die' |
-| <span class="russ">зажечь, зажгу</span> (<span class="trans">zažeč', zažgu</span>) | <span class="russ">зажигать, зажигаю</span> (<span class="trans">zažigat', zažigaju</span>) | 'ignite, set alight' |
-| <span class="russ">ождать, ожду</span> (<span class="trans">oždat', oždu</span>) | <span class="russ">ожидать, ожидаю</span> (<span class="trans">ožidat', ožidaju</span>) | 'expect, anticipate' |
+| <span class="russ">зажечь, зажгу</span> (<span class="trans">zažeč', zažgu</span>) | <span class="russ">зажигать, зажигаю</span> (<span class="trans">zažigat', zažigaju</span>) | 'ignite' |
+| <span class="russ">ождать, ожду</span> (<span class="trans">oždat', oždu</span>) | <span class="russ">ожидать, ожидаю</span> (<span class="trans">ožidat', ožidaju</span>) | 'expect' |
 
 Those three groups suddenly have a lot more in common, don't they? Regardless of the particular sort of vowel alternation (if there is one) in the simplex or prefixed perfective forms, all three groups of verbs form their derived imperfectives in the same way.
 
