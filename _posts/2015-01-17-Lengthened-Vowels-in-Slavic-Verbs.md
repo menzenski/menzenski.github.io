@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Iteratives and Imperfectives, Oh My
+title: Russian Perfectives and Imperfectives, Oh My
 description: "One of the characteristics shared by all Slavic languages is the distinction made in the verb between perfective and imperfective aspects."
 categories: [articles, Balto-Slavic Iteratives, Slavic, aspect] 
 date: 2015-01-17
@@ -18,7 +18,7 @@ Prefixation leads to multiple sorts of perfective verbs in Russian: some prefixe
 
 A third group of prefixed perfective verbs are *lexical perfectives* (also called Specialized Perfectives). While in procedural perfectives the prefix might be said to add a small amount of new semantic content aside from perfective meaning, in lexical perfectives the prefix adds enough additional semantic content that the resulting perfective verb is considered lexically distinct from the simplex (i.e., not prefixed and not suffixed) imperfective. As a result, in an aspectual pair the imperfective partner of a lexical perfective is not the simplex imperfective, but a new, *derived imperfective* formed from the prefixed verb by the addition of an imperfectivizing suffix. The verb <span class="russ">перечитать</span> <span class="trans">perečitat'</span> 're-read (pf)' is a lexical perfective formed from <span class="russ">читать</span> <span class="trans">čitat'</span> 'read', but its imperfective partner is  <span class="russ">перечитывать</span> <span class="trans">perečityvat'</span> 're-read (ipf)', formed with the imperfectivizing suffix <span class="russ">-ыва-</span> <span class="trans">-yva-</span>.
 
-### Imperfectivizing Morphology and Lengthened Root Vowels
+### Imperfectivizing Morphology and Vowel Alternation
 
 The suffix <span class="russ">-ыва-</span> <span class="trans">-yva-</span> is the most common imperfectivizing suffix in modern Russian, and the only one which is productive. A look at Russian aspectual morphology, though, reveals that there are a number of imperfectivizing strategies which are fossilized in the modern language&mdash;that is, they're used on some verbs which have retained those markers, but they aren't being applied to any newly introduced verbs. One of these imperfectivizing strategies is the focus of this project (and will be one of the main topics for this blog): the <span class="russ">-бирать</span> <span class="trans">-birat'</span> type.
 
