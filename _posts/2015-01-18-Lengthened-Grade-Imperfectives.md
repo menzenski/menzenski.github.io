@@ -52,7 +52,7 @@ verb:
 Two of these groups of verbs feature some kind of vowel alternation
 between the infinitive and the conjugated nonpast forms, while one
 does not, but all three participate in a vowel alternation in their
-*derived imperfective formation*.
+*derived imperfective formation*. 
 
 [lastp]: {{ site.canonical }}/blog/balto-slavic%20iteratives/slavic/aspect/Lengthened-Vowels-in-Slavic-Verbs/
 
