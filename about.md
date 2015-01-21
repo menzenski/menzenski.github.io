@@ -8,7 +8,6 @@ image:
   feature: soft-trees.jpg
 ---
 
-![The author at Minnehaha Falls in St. Paul, Minnesota]({{ site.url }}/images/photo.jpg)
 
 My research interests include verbal aspect in Russian (and in Slavic more generally), verb classification, linguistic typology, North American indigenous languages, digital humanities, literary linguistics, and East European science fiction. These interests are fairly broad, and might seem disconnected from one another, but I like to think that several of them will come together in my dissertation in the next few years. Any that can't be subsumed under my dissertation will hopefully make me a more well-rounded candidate when I go on the job market after defending.
 
