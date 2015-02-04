@@ -65,8 +65,30 @@ narrative.
 
 Remember that Python script above, and how simple it was to make
 "Hello World" appear on screen? If I wanted to write a program in
-Assembly language to display the same message on screen, here's how it
+Assembly language to display that same message on screen, here's how it
 would look (sourced from
 [Wikipedia](http://en.wikipedia.org/wiki/List_of_Hello_world_program_examples)): 
 
 <script src="https://gist.github.com/menzenski/74dab45619ca69a00df3.js"></script>
+
+Suddenly we realize that there's a lot of processing going on
+behind-the-scenes in that Python example above. Assembly language
+interfaces directly with hardware in a way that Python doesn't, which
+is why this program is so much longer than its Python counterpart. We
+need to specify everything very precisely—Assembly language allows us
+to literally interface with the 1s and 0s of the computer's actual
+machine language. 
+
+### Back to narratives
+
+The analogy between narratology and computer science is not a
+perfect one, of course. In many ways, the two fields are moving in
+different directions. Computers began as ordered sequences of 0s and
+1s (that's really still what they are, even if we don't look that
+deeply into their innards very often now), and higher-level
+programming languages at their core are simply abstractions, taking
+advantage of structures which have become conventionalized. In
+narratology, and more broadly in all fields of inquiry concerning the
+mind, we're starting at the other end of the process: we've already
+got the high-level abstractions and conventions, and we're searching
+for the 0s and 1s.
