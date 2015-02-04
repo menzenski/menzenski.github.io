@@ -93,6 +93,10 @@ mind, we're starting at the other end of the process: we've already
 got the high-level abstractions and conventions, and we're searching
 for the 0s and 1s.
 
+In his article, Bruner lays out ten elements of narrative which may in
+one sense be considered those 0s and 1s, the fundamental building
+blocks of narrative structure.
+
 * **Narrative diachronicity:** narratives involve events occurring
   over time, and thus are fundamentally and irreducibly durative. 
 * **Particularity:** a narrative must be embodied by specific
