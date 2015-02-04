@@ -126,3 +126,17 @@ for the 0s and 1s.
   sentences, and sentences to make narratives, so too do narratives
   accrue into larger units. These are called variously "cultures",
   "histories", or "traditions".
+
+If some of these don't sound specific to narrative, that's part of the
+point. We might call Bruner's view cognitive narratology: narratives
+are not a fundamentally unique human creation, separate and distinct
+from other means of conveying information; rather, they make use of
+the same abilities, and are subject to the same constraints, as human
+cognition more generally. In a cognitive approach to linguistics,
+human language takes the forms it does because it constitutes an
+interaction between such human abilities as pattern recognition,
+memory, judgement/interpretation, abstraction and conventionalization,
+etc. Those same cognitive abliities underlie the human narrative
+ability as well.
+
+(This post now has me wondering: can a computer program be a narrative?)
