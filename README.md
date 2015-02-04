@@ -4,9 +4,11 @@ This repository hosts my personal GitHub Pages site.
 
 On this page I'm using the [Balzac][Balzac] theme by
 [Cole Townsend][Townsend] ([@twnsndco][TownsendTwitter]), who has shared it under the
-[MIT License][MIT].
+[MIT License][MIT]. I've only modified the theme a little bit, by
+adding CSS and font support for displaying Russian and Old Church
+Slavic scripts.
 
-Unless otherwise stated, all the content I've provided on this site is
+Unless otherwise stated, all the content on this site is
 free to use and re-use under a [Creative Commons CC-BY-4.0 License][cc].
 
 
