@@ -92,3 +92,37 @@ narratology, and more broadly in all fields of inquiry concerning the
 mind, we're starting at the other end of the process: we've already
 got the high-level abstractions and conventions, and we're searching
 for the 0s and 1s.
+
+* **Narrative diachronicity:** narratives involve events occurring
+  over time, and thus are fundamentally and irreducibly durative. 
+* **Particularity:** a narrative must be embodied by specific
+  participants and events, even though these particulars are
+  frequently instantiations of a more general 'type'.
+* **Intentional state entailment:** the intentionality and agency of
+  the participants is crucial. Those events which are not intentional
+  in their causes (acts of nature, etc.) play a role in narrative
+  primarily by affecting the intentional state of the participants.
+* **Hermeneutic composability:** a narrative and its comprehension as
+  such depend on our ability to interpret knowledge. This interpretive
+  ability is distinct from the modes of processing proposed by the
+  rationalist and empiricist traditions.
+* **Canonicity and breach:** A recounted, particular, diachronic
+  sequence of events is necessary but non-sufficient to an
+  understanding of narrative. A narrative requires a certain
+  "worth-telling-about-ness".
+* **Referentiality:** "Truth", in narrative, is judged by its
+  verisimilitude rather than by its verifiability.
+* **Genericness:** Genre is both a property of a given text and a way
+  of comprehending narrative, a higher-order abstraction or
+  conventionalization of universal (or near-universal) human plights.
+* **Normativeness:** The driving force in narrative is a "breach" of
+  convention or of norms.
+* **Context sensitivity and negotiability:** Our ability to interpret
+  narratives is in fact a much broader part of human cognition, and is
+  more important a part of everyday life than might have been
+  assumed. Our ability to understand and interpret narratives in
+  context is also demonstrated in daily cultural negotiations.
+* **Narrative accrual:** Just as words are added together to make
+  sentences, and sentences to make narratives, so too do narratives
+  accrue into larger units. These are called variously "cultures",
+  "histories", or "traditions".
