@@ -34,7 +34,6 @@ World" on the screen, for instance (the usual first program one learns
 in a new language), you simply type:
 
 
-T
 <script src="https://gist.github.com/menzenski/0b8d0e2ab7f08a864fc5.js"></script>
 
 You can run Python on just about any computer without too
