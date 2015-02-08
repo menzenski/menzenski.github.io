@@ -2,10 +2,10 @@
 layout: post-no-feature
 permalink: /nltk/index.html
 title: Introduction to Text Analysis
-description: "Python and the Natural Language Toolkit"
+description: 
 tags: [about, admin, nltk, python]
 image:
-  feature: soft-trees.jpg
+  feature: typewriter.jpg
 ---
 
 This is a placeholder site at the moment, but soon it will host the Python code for
