@@ -20,6 +20,11 @@ tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
 
+analytics:
+  provider: google
+  google:
+    tracking_id: 'UA-47395716-2'
+
 # Links to include in top navigation
 # For external links add external: true
 links:
@@ -60,7 +65,8 @@ sass:
     style: :compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+#permalink:   /:categories/:title
+permalink: /:year/:i_month/:i_day/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
