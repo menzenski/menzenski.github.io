@@ -6,7 +6,7 @@ description:
 tags: [about, admin]
 ---
 
-### Social Media
+#### Social Media
 
 * [Twitter][twit]
 * [LinkedIn][li]
