@@ -23,6 +23,8 @@ Python and the Natural Language Toolkit".
 
 * The 'dummy' website we're using to scrape text from HTML is [here][dummy].
 
+* The slides for the workshop presentation are available [on figshare][figshare].
+
 * If you're interested in the LaTeX code of the presentation itself,
   I wrote it on [Overleaf][ol]. You can see the code [here][latexcode]
   (read-only), or `git clone` the project with
@@ -42,6 +44,8 @@ If you have any questions, feel free to contact me through the links below.
 [patext]:  http://menzenski.pythonanywhere.com/text/fathers_and_sons.txt
 
 [dummy]: http://menzenski.pythonanywhere.com/text/blog_post.html
+
+[figshare]: http://figshare.com/articles/Introduction_to_Text_Analysis_with_Python_and_the_Natural_Language_Toolkit/1327679 
 
 [ol]: https://www.overleaf.com
 
