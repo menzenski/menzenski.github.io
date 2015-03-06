@@ -29,13 +29,21 @@ Python and the Natural Language Toolkit".
 If you have any questions, feel free to contact me through the links below.
 
 [idrh]: http://idrh.ku.edu/digital-jumpstart-workshops-2015
+
 [pyth]:
 https://github.com/menzenski/python-tools/blob/master/idrh-workshop-code/idrhworkshopcode.py
+
 [gutenberg]: http://www.gutenberg.org/ebooks/30723
+
 [pa]: https://www.pythonanywhere.com/
+
 [patext]: 
 http://menzenski.pythonanywhere.com/text/fathers_and_sons.txt
+
 [ol]: https://www.overleaf.com
+
 [latexcode]: https://www.overleaf.com/read/jjvswmcgkkqc
+
 [gitlink]: https://git.overleaf.com/2209102qkwnvf
+
 [mtheme]: https://github.com/matze/mtheme
