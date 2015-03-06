@@ -17,8 +17,11 @@ Python and the Natural Language Toolkit".
 * The text of <i>Fathers and Sons</i>, the novel we're using as a
   source text in the workshop, is available on
   [Project Gutenberg][gutenberg] (you'll want the "Plain Text UTF-8"
-  format). (If you're using a free account on [Python Anywhere][pa],
-  you'll need to use [the version I've rehosted there][patext]).
+  format). If you're using a free account on [Python Anywhere][pa],
+  you'll need to use [the version I've rehosted there][patext] (free
+  accounts are restricted to the `pythonanywhere.com` domain).
+
+* The 'dummy' website we're using to scrape text from HTML is [here][dummy].
 
 * If you're interested in the LaTeX code of the presentation itself,
   I wrote it on [Overleaf][ol]. You can see the code [here][latexcode]
@@ -37,6 +40,8 @@ If you have any questions, feel free to contact me through the links below.
 [pa]: https://www.pythonanywhere.com/
 
 [patext]:  http://menzenski.pythonanywhere.com/text/fathers_and_sons.txt
+
+[dummy]: http://menzenski.pythonanywhere.com/text/blog_post.html
 
 [ol]: https://www.overleaf.com
 
