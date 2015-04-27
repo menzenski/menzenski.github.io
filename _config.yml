@@ -24,7 +24,11 @@ owner:
   email:          matt.menzenski@gmail.com
   twitter:        menzenski
 #  github:         menzenski
-  instagram:      therealmenzenski
+#  instagram:      therealmenzenski
 #  disqus:         mattmenzenski
   location:       "Lawrence, KS"
   # Plug in your disqus shortname!
+
+tools:
+  standards:      "HTML, CSS, Jekyll"
+  software:       "git"

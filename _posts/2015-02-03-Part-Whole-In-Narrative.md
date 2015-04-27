@@ -1,6 +1,6 @@
 ---
 layout: blog
-categories: [blog, literature] 
+categories: [blog, literature, narratology] 
 date: 2015-02-03
 comments: true
 title: Metonymy and Narrative Structure
