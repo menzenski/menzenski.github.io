@@ -3,11 +3,11 @@ layout: frontpage
 title: Papers
 ---
 
-# Conference Presentations
+## Conference Presentations
 
 {% for paper in site.data.conferencepapers %}
 
-## {{ paper.name }}
+#### {{ paper.name }}
 
 -----
 
