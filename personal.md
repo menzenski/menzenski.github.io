@@ -3,11 +3,9 @@ layout: frontblog
 title: {{ site.title }}
 ---
 
-# Blog
+# Personal Blog
 
-This central page shows blog posts from all categories.
-
-{% for post in site.categories.blog %}
+{% for post in site.categories.personal %}
 
 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 

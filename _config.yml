@@ -1,74 +1,28 @@
-title:            Matt Menzenski
-tagline:          A website and blog
-description:      Slavic linguistics, open access, digital humanities
-canonical:        http://www.menzenski.com
-
-# Owner/author information
-owner:
-  name:           Matt Menzenski
-  avatar:         avatar.png
-  bio:            "Graduate student in Slavic Languages and Literatures at the University of Kansas"
-  email:          matt.menzenski@gmail.com
-  twitter:        menzenski
-  github:         menzenski
-  instagram:      therealmenzenski
-  disqus:         mattmenzenski
-  location:       "Lawrence, KS"
-  # Plug in your disqus shortname!
-
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
+baseurl: http://www.menzenski.com
+account: menzenski
+github: https://github.com/menzenski
+title: Matt Menzenski
+subtitle: The University of Kansas
+#ohrs: 3:00-4:00 TR
+markdown: kramdown
 
 analytics:
   provider: google
   google:
     tracking_id: 'UA-47395716-2'
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Blog
-    url: /blog
-  - title: About
-    url: /about
-  - title: CV
-    url: /cv
-  - title: Github
-    url: https://github.com/menzenski/
-    external: true
-  - title: Links
-    url: /links
-#    title: Matt Who?
-#    url: http://coletownsend.com
-#    external: true
+disqus:           mattmenzenski
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Chicago
-future:      true
-highlighter: pygments
-markdown:    kramdown
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-sass:
-    style: :compressed
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-#permalink:   /:categories/:title
-permalink: /:year/:month/:day/:title
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+# Owner/author information
+owner:
+  name:           Matt Menzenski
+#  avatar:         avatar.png
+  bio:            "Graduate student in Slavic Languages and Literatures at the University of Kansas"
+  email:          matt.menzenski@gmail.com
+  twitter:        menzenski
+#  github:         menzenski
+  instagram:      therealmenzenski
+#  disqus:         mattmenzenski
+  location:       "Lawrence, KS"
+  # Plug in your disqus shortname!
