@@ -26,4 +26,13 @@ this page are released under a
 
 {% endfor %}
 
+## Undergraduate Thesis
+
+\* *coming soon* \*
+
+## Seminar Papers
+
+\* *coming soon* \*
+
+
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/
