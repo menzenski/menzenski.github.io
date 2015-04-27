@@ -3,7 +3,7 @@ layout: frontblog
 title: {{ site.title }}
 ---
 
-# Linguistics Blog
+# Linguistics Posts
 
 {% for post in site.categories.linguistics %}
 

@@ -3,7 +3,7 @@ layout: frontblog
 title: {{ site.title }}
 ---
 
-# Literature Blog
+# Literature Posts
 
 {% for post in site.categories.literature %}
 

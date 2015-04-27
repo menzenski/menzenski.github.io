@@ -1,4 +1,4 @@
 ---
 layout: frontpage
-title: About Me
+title: Papers
 ---
