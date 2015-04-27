@@ -12,9 +12,9 @@ this page are released under a
 
 ## Conference Presentations
 
-{% for paper in site.data.conferencepapers %}
-
 -----
+
+{% for paper in site.data.conferencepapers %}
 
 #### [{{ paper.name }}]({{ paper.location }})
 
@@ -28,9 +28,13 @@ this page are released under a
 
 ## Undergraduate Thesis
 
+-----
+
 \* *coming soon* \*
 
 ## Seminar Papers
+
+-----
 
 \* *coming soon* \*
 
