@@ -206,3 +206,23 @@ footer {
   }
 }
 
+@font-face {
+  font-family: 'bukyvederegular';
+  src: url('bukyvede-regular-webfont.eot');
+  src: url('bukyvede-regular-webfont.eot?#iefix') format('embedded-opentype'), url('bukyvede-regular-webfont.woff2') format('woff2'), url('bukyvede-regular-webfont.woff') format('woff'), url('bukyvede-regular-webfont.ttf') format('truetype'), url('bukyvede-regular-webfont.svg#bukyvederegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+span.ocs {
+  font-family: BukyVede;
+  font-size: 120%;
+}
+
+span.russ {
+  font-style: italic;
+}
+
+span.trans {
+  font-style: italic;
+}
