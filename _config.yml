@@ -13,6 +13,8 @@ analytics:
 
 disqus:           mattmenzenski
 
+highlighter: pygments
+
 
 # Owner/author information
 owner:
