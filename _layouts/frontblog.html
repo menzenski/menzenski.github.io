@@ -23,7 +23,7 @@
 
 	Recent Posts<br>
 	<ul>
-    	{% for post in site.categories.blog limit:8 %}
+    	{% for post in site.categories.blog limit:3 %}
     	<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     	{% endfor %}
     	</ul>
@@ -39,11 +39,13 @@
 	Resources<br>
 	<a href="{{ site.baseurl }}/nltk.html">NLTK Materials</a><br>
 
+	<!-- 
 	<p></p>
 	Blog Categories<br>
 	<a href="{{ site.baseurl }}/ling.html">Linguistics</a><br>
 	<a href="{{ site.baseurl }}/lit.html">Literature</a><br>
 	<a href="{{ site.baseurl }}/personal.html">Personal</a><br>
+	 -->
       </header>
       <section> 
         {{ content }}
