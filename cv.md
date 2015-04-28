@@ -3,7 +3,7 @@ layout: frontpage
 title: Curriculum Vitae
 ---
 
-## Curriculum Vitae
+# Curriculum Vitae
 
 An up-to-date copy of my CV is available [here][CV] (pdf).
 
