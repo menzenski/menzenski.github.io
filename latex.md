@@ -21,7 +21,8 @@ posting some LaTeX resources on this page.
 
 ### University of Kansas Dissertation Class in XeLaTeX
 
-This code is available in a [GitHub repository][xelatexclass].
+This code is available in a [GitHub repository][xelatexclass]. You can
+see a sample document generated with this code [here][demopdf].
 
 A KU LaTeX dissertation class had already put together several years ago by
 KU professor [Paul E. Johnson][PaulJohnson]. It's great, but it didn't meet my
@@ -34,6 +35,7 @@ medieval characters) as well as phonetic symbols.
 
 [tex]: http://latex-project.org
 [xelatexclass]: https://github.com/menzenski/xelatex-dissertation-class
+[demopdf]: {{ site.baseurl }}/resources/XeXUDissertationDemo.pdf 
 [KUThesis]: http://pj.freefaculty.org/guides/Computing-HOWTO/KU-thesis/
 [PaulJohnson]: http://kups.ku.edu/paul-e-johnson
 [stack]: http://tex.stackexchange.com/questions/132649/what-would-draw-a-student-of-the-humanities-to-latex-systems
