@@ -35,7 +35,7 @@ medieval characters) as well as phonetic symbols.
 
 [tex]: http://latex-project.org
 [xelatexclass]: https://github.com/menzenski/xelatex-dissertation-class
-[demopdf]: {{ site.baseurl }}/resources/XeXUDissertationDemo.pdf 
+[demopdf]: {{ site.baseurl }}/resources/XeKUDissertationDemo.pdf 
 [KUThesis]: http://pj.freefaculty.org/guides/Computing-HOWTO/KU-thesis/
 [PaulJohnson]: http://kups.ku.edu/paul-e-johnson
 [stack]: http://tex.stackexchange.com/questions/132649/what-would-draw-a-student-of-the-humanities-to-latex-systems
