@@ -31,7 +31,14 @@ medieval characters) as well as phonetic symbols.
 
 ### Modular Curriculum Vitae in XeLaTeX
 
-\* *coming soon* \*
+I keep a very detailed 'Master' curriculum vitae, which contains
+information on basically everything I've done—not only the talks I've
+given and papers I've written, but also talks, conferences, and events
+I've attended. When I need a 'public' version of my CV, I generate one
+by removing sections that aren't relevant for the current purpose.
+
+The LaTeX code for this sort of 'Modular CV' is available on GitHub
+[here][modcv].
 
 [tex]: http://latex-project.org
 [xelatexclass]: https://github.com/menzenski/xelatex-dissertation-class
@@ -39,3 +46,4 @@ medieval characters) as well as phonetic symbols.
 [KUThesis]: http://pj.freefaculty.org/guides/Computing-HOWTO/KU-thesis/
 [PaulJohnson]: http://kups.ku.edu/paul-e-johnson
 [stack]: http://tex.stackexchange.com/questions/132649/what-would-draw-a-student-of-the-humanities-to-latex-systems
+[modcv]: https://github.com/menzenski/modular-cv
