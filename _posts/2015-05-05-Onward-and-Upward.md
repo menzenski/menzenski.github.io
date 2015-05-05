@@ -13,7 +13,8 @@ exams. I'm happy to report that I've now made it through those exams.
 Last week I passed the oral exam (the third and final portion), which
 means that I'll be staying in Lawrence for a while longer (a *long*
 while longer). I'm super excited to be starting the PhD in Slavic
-Linguistics at KU. This department is the right place for me 
+Linguistics at KU. This department is the right place for me and I'm
+glad to be able to remain here in Lawrence.
 
 This has been a good week all around, actually. Last Wednesday I signed
 the contract for my summer employment. I'll be working at KU as a
