@@ -1,6 +1,6 @@
 ---
 layout: blog
-categories: [blog, literature, tolstoy] 
+categories: [blog, literature] 
 date: 2015-05-11
 comments: true
 title: Sentiment in Tolstoy's "War and Peace" I: Chunking Size
