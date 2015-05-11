@@ -3,7 +3,7 @@ layout: blog
 categories: [blog, literature] 
 date: 2015-05-11
 comments: true
-title: Sentiment in "War and Peace", Part I
+title: Sentiment in "War and Peace" Part I
 ---
 
 I've been having a lot of fun playing around with Matthew Jockers'
