@@ -16,3 +16,5 @@ Here's the first image:
 Here's the second image:
 
 <img src="/images/2015-05-11/WarAndPeace_bing_chapter.png" alt="Chapter-level sentiment totals in "War and Peace"" width="600" height="375"/>
+
+[syuzhetpackage]: http://www.matthewjockers.net/2015/02/02/syuzhet/
