@@ -67,6 +67,9 @@ we're exploring sentiment. Divisions of a text into chapters certainly
 seem to fall under *syuzhet* rather than *fabula*. We shouldn't throw
 them out when doing this sort of textual exploration.
 
+
+### Notes
+
 <a name="fn1">[1]</a>: Using the Bing lexicon (rather than the NRC
 lexicon) to assign sentiment results in 6,213 sentences with a
 negative total sentiment (sum < 0), and 6,236 sentences with a
