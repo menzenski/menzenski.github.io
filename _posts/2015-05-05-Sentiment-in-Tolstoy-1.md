@@ -44,13 +44,8 @@ using the NRC lexicon to assign sentiment values, there are actually
 and 4,802 sentences with negative sentiment (sum < 0). The rest of the
 sentences have neutral sentiment (sum = 0).<sup>[1](#fn1)</sup>
 
-What do these diagrams tell us about *War and Peace*? Well, given that
-the number of negative sentences is almost exactly equal to the number
-of positive sentences, we might be justified in concluding that on the
-whole, strength of sentiment is greater in sentences with positive
-sentiment than in sentences with negative sentiment.
-
-The Syuzhet package includes a `get_percentages()` function which
+What do these diagrams tell us about *War and Peace*? It's hard to
+say. The Syuzhet package includes a `get_percentages()` function which
 divides a text into one hundred chunks of equal size and plots mean
 sentiment for each. For *War and Peace*, the resulting diagram looks
 like this:
