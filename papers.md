@@ -30,7 +30,17 @@ this page are released under a
 
 -----
 
-\* *coming soon* \*
+{% for paper in site.data.theses %}
+
+#### [{{ paper.name }}]({{ paper.location }})
+
+{{ paper.date | date: '%B %d, %Y' }}: {{ paper.description }}
+
+### Abstract
+
+> \* *abstract coming soon* \*
+
+{% endfor %}
 
 ## Seminar Papers
 
