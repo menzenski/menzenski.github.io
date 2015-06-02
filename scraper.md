@@ -10,6 +10,20 @@ Python scraper.
 
 I'm part of a team of university researchers working on building new
 computational resources for [Uyghur][uy], a Turkic language spoken in
-northwest China. Many of the 
+northwest China. Many of the resources currently available for Uyghur
+are written in Mandarin Chinese.
+
+I have a Uyghur dictionary file in which some words are translated
+into English but most words are translated into Mandarin. I've written
+this Python scraper to find English translations of those Mandarin
+words by looking them up in [Wiktionary][wikt].
+
+I've written this scraper to wait a few seconds between pages, and
+take a longer wait after one hundred pages.
+
+If you'd like to drop me a line regarding this scraper, you can reach
+me through one of the links on the [Contact Me][contact] page.
 
 [uy]: http://en.wikipedia.org/wiki/Uyghur_language
+[wikt]: http://en.wiktionary.org/wiki/Wiktionary:Main_Page
+[contact]: {{ site.baseurl }}/contact
