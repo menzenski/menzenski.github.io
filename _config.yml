@@ -2,9 +2,9 @@ baseurl: http://www.menzenski.com
 account: menzenski
 github: https://github.com/menzenski
 title: Matt Menzenski
-subtitle: The University of Kansas
+subtitle: Slavic Linguistics, Open Access, etc.
 #ohrs: 3:00-4:00 TR
-markdown: kramdown
+#markdown: kramdown
 
 analytics:
   provider: google
@@ -13,14 +13,14 @@ analytics:
 
 disqus:           mattmenzenski
 
-highlighter: pygments
+#highlighter: pygments
 
 
 # Owner/author information
 owner:
   name:           Matt Menzenski
 #  avatar:         avatar.png
-  bio:            "Graduate student in Slavic Languages and Literatures at the University of Kansas"
+  bio:            "PhD student in Slavic Linguistics at the University of Kansas"
   email:          matt.menzenski@gmail.com
   twitter:        menzenski
 #  github:         menzenski
