@@ -1,34 +1,61 @@
-baseurl: http://www.menzenski.com
-account: menzenski
-github: https://github.com/menzenski
-title: Matt Menzenski
-subtitle: Slavic Linguistics, Open Access, etc.
-#ohrs: 3:00-4:00 TR
-#markdown: kramdown
+# Site wide configuration
 
-analytics:
-  provider: google
-  google:
-    tracking_id: 'UA-47395716-2'
-
-disqus:           mattmenzenski
-
-#highlighter: pygments
+title:            Matt Menzenski
+locale:           en_US
+url:              http://www.menzenski.com
 
 
-# Owner/author information
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
 owner:
-  name:           Matt Menzenski
-#  avatar:         avatar.png
-  bio:            "PhD student in Slavic Linguistics at the University of Kansas"
-  email:          matt.menzenski@gmail.com
-  twitter:        menzenski
-#  github:         menzenski
-#  instagram:      therealmenzenski
-#  disqus:         mattmenzenski
-  location:       "Lawrence, KS"
-  # Plug in your disqus shortname!
+  name: Matt Menzenski
+  avatar: menzenski_gravatar.jpg
+  bio: "PhD student in Slavic Linguistics at the University of Kansas."
+  email: matt.menzenski@gmail.com
+  disqus-shortname: mattmenzenski
+  twitter: menzenski
+  facebook: #username
+  google:
+    plus: mattmenzenski
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: menzenski
+  stackoverflow: 2429101/menzenski
+  linkedin: menzenski
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
 
-tools:
-  standards:      "HTML, CSS, Jekyll"
-  software:       "git"
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
