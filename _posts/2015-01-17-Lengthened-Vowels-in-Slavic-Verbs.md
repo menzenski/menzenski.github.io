@@ -1,16 +1,21 @@
 ---
-layout: blog
-categories: [blog, Balto-Slavic Iteratives, Slavic, aspect, linguistics] 
+layout: post
 title: Perfective and Imperfective, Oh My
-date: 2015-01-17
+excerpt:
+tags: [blog, Balto-Slavic Iteratives, Slavic, aspect, linguistics]
+modified: 2015-01-17
 comments: true
+image:
+  feature: header_image_code2.png
+  credit: Matt Menzenski (licensed CC-BY-4.0)
+  creditlink: http://www.menzenski.com
 ---
 
 One of the characteristics shared by all Slavic languages is the distinction made in the verb between perfective and imperfective aspects. The particular semantics of the aspects vary from language to language, but generally, use of the perfective (pf) is associated with completed actions, actions viewed in their totality, and actions occurring at a definite point in time, while use of the imperfective (ipf) is associated with actions in process, actions considered with reference to their internal temporal makeup, and repeated actions.
 
 ### Types of Perfective Verbs in Russian
 
-In Russian, verbs are frequently grouped into *aspectual pairs* containing an imperfective and its corresponding perfective, e.g., <span class="russ">читать/прочитать</span> (<span class="trans">čitat'/pročitat'</span> in transliteration) 'read (ipf and pf respectively)'. There are several strategies for forming the members of an aspectual pair. There are some eighteen verbal prefixes in Russian, each of which results in a perfective verb. 
+In Russian, verbs are frequently grouped into *aspectual pairs* containing an imperfective and its corresponding perfective, e.g., <span class="russ">читать/прочитать</span> (<span class="trans">čitat'/pročitat'</span> in transliteration) 'read (ipf and pf respectively)'. There are several strategies for forming the members of an aspectual pair. There are some eighteen verbal prefixes in Russian, each of which results in a perfective verb.
 
 Prefixation leads to multiple sorts of perfective verbs in Russian: some prefixed perfectives (typically just one for a given simplex imperfective) are considered *natural perfectives*&mdash;in these perfectives, like the <span class="trans">pro-</span> in <span class="trans">čitat'/pročitat'</span> above, the prefix is considered to be 'semantically empty' aside from the perfective meaning. Others are *procedural perfectives* (also called Complex Act Perfectives), e.g., <span class="russ">почитать</span> (<span class="trans">počitat'</span>) 'to read for a while (pf)'&mdash;these prefixes set some sort of boundary on an action, and frequently have connotations like 'to do something for a while', 'to start to do something', 'to stop doing something', or 'to do something for a certain period of time'.
 

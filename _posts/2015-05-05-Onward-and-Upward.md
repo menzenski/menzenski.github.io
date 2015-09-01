@@ -1,9 +1,14 @@
 ---
-layout: blog
-categories: [blog, personal] 
-date: 2015-05-05
-comments: true
+layout: post
 title: Onward and Upward
+excerpt: "An update about the end of the semester and my summer plans."
+tags: [blog, personal]
+modified: 2015-05-05
+comments: true
+image:
+  feature: header_image_code2.png
+  credit: Matt Menzenski (licensed CC-BY-4.0)
+  creditlink: http://www.menzenski.com
 ---
 
 I haven't posted anything to this blog in three months, and in large

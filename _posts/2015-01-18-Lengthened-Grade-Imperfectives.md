@@ -1,9 +1,14 @@
 ---
-layout: blog
+layout: post
 title: Lengthened Vowels in Russian Derived Imperfectives
-categories: [blog, Balto-Slavic Iteratives, Slavic, aspect, linguistics] 
-date: 2015-01-18
+excerpt:
+tags: [blog, Balto-Slavic Iteratives, Slavic, aspect, linguistics]
+modified: 2015-01-18
 comments: true
+image:
+  feature: header_image_code2.png
+  credit: Matt Menzenski (licensed CC-BY-4.0)
+  creditlink: http://www.menzenski.com
 ---
 
 In my [last post][lastp], I described three groups of Russian verbs characterized by a root vowel alternation (unless indicated otherwise, when two forms occur separated by a comma, the first is the *infinitive* and the second is the *first-person singular nonpast*):

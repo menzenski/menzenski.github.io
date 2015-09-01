@@ -1,9 +1,14 @@
 ---
-layout: blog
-categories: [blog, literature, narratology] 
-date: 2015-02-03
-comments: true
+layout: post
 title: Metonymy and Narrative Structure
+excerpt: 
+tags: [blog, literature, narratology]
+modified: 2015-02-03
+comments: true
+image:
+  feature: header_image_code2.png
+  credit: Matt Menzenski (licensed CC-BY-4.0)
+  creditlink: http://www.menzenski.com
 ---
 
 William Croft's Radical Construction Grammar requires
@@ -65,7 +70,7 @@ Remember that Python script above, and how simple it was to make
 "Hello World" appear on screen? If I wanted to write a program in
 Assembly language to display that same message on screen, here's how it
 would look (sourced from
-[Wikipedia](http://en.wikipedia.org/wiki/List_of_Hello_world_program_examples)): 
+[Wikipedia](http://en.wikipedia.org/wiki/List_of_Hello_world_program_examples)):
 
 <script src="https://gist.github.com/menzenski/74dab45619ca69a00df3.js"></script>
 
@@ -75,7 +80,7 @@ interfaces directly with hardware in a way that Python doesn't, which
 is why this program is so much longer than its Python counterpart. We
 need to specify everything very precisely—Assembly language allows us
 to literally interface with the 1s and 0s of the computer's actual
-machine language. 
+machine language.
 
 ### Back to narratives
 
@@ -96,7 +101,7 @@ one sense be considered those 0s and 1s, the fundamental building
 blocks of narrative structure.
 
 * **Narrative diachronicity:** narratives involve events occurring
-  over time, and thus are fundamentally and irreducibly durative. 
+  over time, and thus are fundamentally and irreducibly durative.
 * **Particularity:** a narrative must be embodied by specific
   participants and events, even though these particulars are
   frequently instantiations of a more general 'type'.

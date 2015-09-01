@@ -1,9 +1,14 @@
 ---
-layout: blog
-categories: [blog, literature] 
-date: 2015-05-11
-comments: true
+layout: post
 title: Sentiment in "War and Peace"
+excerpt:
+tags: [blog, literature]
+modified: 2015-05-11
+comments: true
+image:
+  feature: header_image_code2.png
+  credit: Matt Menzenski (licensed CC-BY-4.0)
+  creditlink: http://www.menzenski.com
 ---
 
 I've been having a lot of fun playing around with Matthew Jockers'
