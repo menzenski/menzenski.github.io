@@ -1,6 +1,13 @@
 ---
-layout: frontpage
+layout: page
 title: LaTeX Resources
+tags: [about, LaTeX]
+modified: 2015-09-01
+comments: true
+image:
+  feature: header_image_code2.png
+  credit: Matt Menzenski (licensed CC-BY-4.0)
+  creditlink: http://www.menzenski.com
 ---
 
 # LaTeX Resources
@@ -27,7 +34,7 @@ see a sample document generated with this code [here][demopdf].
 A KU LaTeX dissertation class had already put together several years ago by
 KU professor [Paul E. Johnson][PaulJohnson]. It's great, but it didn't meet my
 needs as a Slavist—I need support for Cyrillic text (including some
-medieval characters) as well as phonetic symbols. 
+medieval characters) as well as phonetic symbols.
 
 ### Modular Curriculum Vitae in XeLaTeX
 
@@ -42,7 +49,7 @@ The LaTeX code for this sort of 'Modular CV' is available on GitHub
 
 [tex]: http://latex-project.org
 [xelatexclass]: https://github.com/menzenski/xelatex-dissertation-class
-[demopdf]: {{ site.baseurl }}/resources/XeKUDissertationDemo.pdf 
+[demopdf]: {{ site.baseurl }}/resources/XeKUDissertationDemo.pdf
 [KUThesis]: http://pj.freefaculty.org/guides/Computing-HOWTO/KU-thesis/
 [PaulJohnson]: http://kups.ku.edu/paul-e-johnson
 [stack]: http://tex.stackexchange.com/questions/132649/what-would-draw-a-student-of-the-humanities-to-latex-systems

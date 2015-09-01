@@ -1,25 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: Matt Menzenski
+tags: [about, personal]
+modified: 2015-09-01
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: header_image_code2.png
+  credit: Matt Menzenski (licensed CC-BY-4.0)
+  creditlink: http://www.menzenski.com
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+# Welcome
 
-## Minimal Mistakes is all about:
+Greetings! Добро пожаловать! I'm Matt Menzenski, and I'm a PhD student in the Department of Slavic Languages and Literatures at the University of Kansas.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+My research interests include verbal aspect in Russian (and in Slavic more generally), verb classification, linguistic typology, indigenous and minority languages, digital humanities, literary linguistics, and East European science fiction. These interests are fairly broad, and might seem disconnected from one another, but I like to think that several of them will come together in my dissertation in the next few years. Any that can't be subsumed under my dissertation will hopefully make me a more well-rounded candidate when I go on the job market after defending.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Research and coursework keeps me extremely busy and I don't have any free time, so of course I serve on several committees. I'm currently serving as a graduate student member on both the Open Access Advisory Board as well as the Institute for Digital Research in the Humanities Advisory Board here at the University of Kansas.
+
+When I do find that rare free time, I enjoy playing bluegrass and acoustic music (on the guitar, banjo, and mandolin) and riding my bicycle.

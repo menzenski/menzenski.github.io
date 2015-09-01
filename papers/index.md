@@ -1,6 +1,13 @@
 ---
-layout: frontpage
+layout: page
 title: Papers
+tags: [research]
+modified: 2015-09-01
+comments: true
+image:
+  feature: header_image_code2.png
+  credit: Matt Menzenski (licensed CC-BY-4.0)
+  creditlink: http://www.menzenski.com
 ---
 
 # Papers
@@ -8,7 +15,7 @@ title: Papers
 On this page you'll find links to papers I've written. Unless
 otherwise indicated, all materials found on
 this page are released under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc]. 
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc].
 
 ## Conference Presentations
 

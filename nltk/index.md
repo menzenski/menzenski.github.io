@@ -1,6 +1,13 @@
 ---
-layout: frontpage
+layout: page
 title: NLTK Workshop Materials
+tags: [Python, NLTK]
+modified: 2015-09-01
+comments: true
+image:
+  feature: header_image_code2.png
+  credit: Matt Menzenski (licensed CC-BY-4.0)
+  creditlink: http://www.menzenski.com
 ---
 
 # Python and NLTK Materials
@@ -42,7 +49,7 @@ If you have any questions, feel free to contact me.
 
 [dummy]: http://menzenski.pythonanywhere.com/text/blog_post.html
 
-[figshare]: http://figshare.com/articles/Introduction_to_Text_Analysis_with_Python_and_the_Natural_Language_Toolkit/1327679 
+[figshare]: http://figshare.com/articles/Introduction_to_Text_Analysis_with_Python_and_the_Natural_Language_Toolkit/1327679
 
 [ol]: https://www.overleaf.com
 
