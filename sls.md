@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: NLTK Workshop Materials
+title: SLS 2015 Materials
 ---
 
 # Slavic Linguistics Society 2015
