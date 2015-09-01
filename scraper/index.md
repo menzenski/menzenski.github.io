@@ -10,8 +10,6 @@ image:
   creditlink: http://www.menzenski.com
 ---
 
-# Python Scraper
-
 If you've found this page, you've probably seen the user-agent for my
 Python scraper.
 

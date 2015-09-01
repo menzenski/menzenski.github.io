@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NLTK Workshop Materials
+title: Python NLTK Workshop Materials
 tags: [Python, NLTK]
 modified: 2015-09-01
 comments: true
@@ -9,8 +9,6 @@ image:
   credit: Matt Menzenski (licensed CC-BY-4.0)
   creditlink: http://www.menzenski.com
 ---
-
-# Python and NLTK Materials
 
 This page contains links to the materials used in the
 [2015 Digital Jumpstart Workshop][idrh] "Introduction to Text Analysis with

@@ -10,8 +10,6 @@ image:
   creditlink: http://www.menzenski.com
 ---
 
-# Papers
-
 On this page you'll find links to papers I've written. Unless
 otherwise indicated, all materials found on
 this page are released under a

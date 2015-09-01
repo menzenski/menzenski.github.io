@@ -10,8 +10,7 @@ image:
   creditlink: http://www.menzenski.com
 ---
 
-# Slavic Linguistics Society 2015
-
 This page is currently a placeholder, but will soon contain a link to the
 slides from my presentation "On the Origins of Lengthened Zero-Grade Vocalism
-in Baltic and Slavic Derived Verbs".
+in Baltic and Slavic Derived Verbs", to be given in Heidelberg, Germany at
+the 2015 meeting of the Slavic Linguistics Society.

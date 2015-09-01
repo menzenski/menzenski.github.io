@@ -10,8 +10,6 @@ image:
   creditlink: http://www.menzenski.com
 ---
 
-# Curriculum Vitae
-
 An up-to-date copy of my CV is available [here][CV] (pdf).
 
 If you're interested in the LaTeX code used to produce my CV, I've

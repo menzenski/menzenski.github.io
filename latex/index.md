@@ -10,8 +10,6 @@ image:
   creditlink: http://www.menzenski.com
 ---
 
-# LaTeX Resources
-
 [LaTeX][tex] is a formatting language/document preparation system
 popular in mathematics and the hard sciences for its ability to render
 equations and diagrams very precisely. LaTeX is not very popular in

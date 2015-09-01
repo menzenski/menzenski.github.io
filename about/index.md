@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matt Menzenski
+title: Welcome!
 tags: [about, personal]
 modified: 2015-09-01
 comments: true
@@ -9,8 +9,6 @@ image:
   credit: Matt Menzenski (licensed CC-BY-4.0)
   creditlink: http://www.menzenski.com
 ---
-
-# Welcome
 
 Greetings! Добро пожаловать! I'm Matt Menzenski, and I'm a PhD student in the Department of Slavic Languages and Literatures at the University of Kansas.
 
