@@ -21,7 +21,7 @@ this page are released under a
 
 {% for paper in site.data.conferencepapers %}
 
-#### [{{ paper.name }}]({{ paper.location }})
+#### {{ paper.name }} ([link]({{ paper.location }}))
 
 {{ paper.date | date: '%B %d, %Y' }}: {{ paper.description }}
 
