@@ -10,6 +10,6 @@ image:
   creditlink: http://www.menzenski.com
 ---
 
-A one-page resume is viewable [here][res]. It's current as of October 21, 2015.
+A one-page resume is viewable [here][res]. It's current as of January 28, 2016.
 
-[res]: {{ site.baseurl }}/resources/MenzenskiResume_2015_10_21.pdf
+[res]: {{ site.baseurl }}/resources/MenzenskiResume_2016_01_28.pdf
