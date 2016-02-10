@@ -9,7 +9,7 @@ url:              http://www.menzenski.com
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Matt Menzenski
   avatar: menzenski_gravatar2.jpeg
-  bio: "PhD student in Slavic Linguistics at the University of Kansas."
+  bio: "Aspiring web developer"
   email: matt.menzenski@gmail.com
   disqus-shortname: mattmenzenski
   twitter: menzenski
