@@ -2,16 +2,12 @@
 layout: page
 title: Python NLTK Workshop Materials
 tags: [Python, NLTK]
-modified: 2015-09-01
+modified: 2016-03-04
 comments: true
-image:
-  feature: header_image_code2.png
-  credit: Matt Menzenski (licensed CC-BY-4.0)
-  creditlink: http://www.menzenski.com
 ---
 
 This page contains links to the materials used in the
-[2015 Digital Jumpstart Workshop][idrh] "Introduction to Text Analysis with
+[2016 Digital Jumpstart Workshop][idrh] "Introduction to Text Analysis with
 Python and the Natural Language Toolkit".
 
 * All the Python code is available [here][pyth], on my GitHub page.
@@ -35,24 +31,14 @@ Python and the Natural Language Toolkit".
 
 If you have any questions, feel free to contact me.
 
-[idrh]: http://idrh.ku.edu/digital-jumpstart-workshops-2015
-
+[idrh]: http://idrh.ku.edu/digital-jumpstart-workshops-2016
 [pyth]: https://github.com/menzenski/python-tools/blob/master/idrh-workshop-code/idrhworkshopcode.py
-
 [gutenberg]: http://www.gutenberg.org/ebooks/30723
-
 [pa]: https://www.pythonanywhere.com/
-
 [patext]:  http://menzenski.pythonanywhere.com/text/fathers_and_sons.txt
-
 [dummy]: http://menzenski.pythonanywhere.com/text/blog_post.html
-
 [figshare]: http://figshare.com/articles/Introduction_to_Text_Analysis_with_Python_and_the_Natural_Language_Toolkit/1327679
-
 [ol]: https://www.overleaf.com
-
 [latexcode]: https://www.overleaf.com/read/jjvswmcgkkqc
-
 [gitlink]: https://git.overleaf.com/2209102qkwnvf
-
 [mtheme]: https://github.com/matze/mtheme
