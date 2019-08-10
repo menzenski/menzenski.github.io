@@ -1,61 +1,23 @@
-# Site wide configuration
+plugins:
+  - jekyll-remote-theme
 
-title:            Matt Menzenski
-locale:           en_US
-url:              http://www.menzenski.com
+remote_theme: broccolini/swiss
 
+title: Matt Menzenski
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: menzenski.github.io # the GitHub repo name for your project
+github_username: menzenski
 
-# Jekyll configuration
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link: twitter
+social_username: menzenski
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: gray
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-
-# Site owner
-owner:
-  name: Matt Menzenski
-  avatar: menzenski_gravatar2.jpeg
-  bio: "Slavic Linguistics PhD student, aspiring web developer"
-  email: matt.menzenski@gmail.com
-  disqus-shortname: mattmenzenski
-  twitter: menzenski
-  facebook: #username
-  google:
-    plus: mattmenzenski
-    analytics: UA-47395716-2
-    verify: z5j9pMB18SJHQr1hLD_oRigdJM7m0LErU_f95LWZxX0
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: menzenski
-  stackoverflow: 2429101/menzenski
-  linkedin: menzenski
-  xing: #username
-  instagram: therealmenzenski
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# Build settings
+markdown: kramdown

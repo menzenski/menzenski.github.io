@@ -1,59 +1,69 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include _head.html %}
-</head>
+<!DOCTYPE html>
+<html>
 
-<body class="home">
+  {% include head.html %}
 
-{% include _browser-upgrade.html %}
+  <body>
 
-{% include _navigation.html %}
+    <div>
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
+      <header class="header-background">
 
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-  <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
-  </div><!-- /#index -->
-</div><!-- /#main -->
+        <div class="clearfix border-bottom-thick header-border">
+          <ul class="list-reset right py-1 header-text font-smoothing">
+            {% for my_page in site.pages %}
+              {% if my_page.title %}
+              <li class="inline-block">
+                <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
 
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+        <div class="container mx-auto px-2 mb-2 clearfix header-text">
+          <h1 class="h0 inline-block col-9 sm-width-full py-4 mt-3 header-title">{{ site.title }}</h1>
 
-{% include _scripts.html %}
+          <div class="clearfix mb-4 py-1">
+            <div class="col-4 sm-width-full left border-top-thin">
+              <div class="table">
+                <div class="inline-block mt-3 mr-1">
+                  {% include dot-accent.html %}
+                </div>
+                <div class="inline-block mt-3 mr-1">
+                  {% include dot-accent.html %}
+                </div>
+                <div class="inline-block mt-3">
+                  {% include github.html %}
+                </div>
+              </div>
+              <!-- Set site description in config.yml -->
+              <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p>
+            </div>
 
-</body>
+            <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
+                <div class="inline-block mt-3 mr-1">
+                  {% include dot.html %}
+                </div>
+                <div class="inline-block mt-3">
+                  {% include {{ site.social_link | default: "twitter" }}.html %}
+                </div>
+            </div>
+          </div>
+
+        </div>
+      </header>
+
+      <div class="container mx-auto px-2 py-4">
+        {% for post in site.posts %}
+          {% include post_block.html %}
+        {% endfor %}
+      </div>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
 </html>
