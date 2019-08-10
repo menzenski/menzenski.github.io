@@ -1,17 +1,27 @@
-# Matt Menzenski's Site
+# Minimal Mistakes remote theme starter
 
-This repository hosts my personal GitHub Pages site.
+Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-On this page I'm using the [Minimal Mistakes][mm] theme by
-[Michael Rose][rose].
+Contains basic configuration to get you a site with:
 
+- Sample posts.
+- Sample top navigation.
+- Sample author sidebar with social links.
+- Sample footer links.
+- Paginated home page.
+- Archive pages for posts grouped by year, category, and tag.
+- Sample about page.
+- Sample 404 page.
+- Site wide search.
 
-## License
+Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
-Unless otherwise stated, all the content on this site is
-free to use and re-use under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc].
+---
 
-[mm]: https://github.com/mmistakes/minimal-mistakes
-[rose]: https://mademistakes.com
-[cc]: https://creativecommons.org/licenses/by-sa/4.0/
+## Troubleshooting
+
+If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+
+- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
+- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
+- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
