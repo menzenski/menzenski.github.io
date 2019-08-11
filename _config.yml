@@ -115,3 +115,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: google
+  google:
+    tracking_id: "UA-47395716-2"
+    anonymize_ip: false
