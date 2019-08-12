@@ -124,3 +124,8 @@ analytics:
 
 og_image:
   /assets/images/bio-photo.jpg
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development # disable compression in dev environment
