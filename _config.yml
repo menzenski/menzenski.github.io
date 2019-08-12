@@ -121,3 +121,6 @@ analytics:
   google:
     tracking_id: "UA-47395716-2"
     anonymize_ip: false
+
+og_image:
+  /assets/images/bio-photo.jpg
