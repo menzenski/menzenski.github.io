@@ -129,3 +129,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development # disable compression in dev environment
+
+comments:
+  provider: disqus
+  disqus:
+    shortname: menzenski
